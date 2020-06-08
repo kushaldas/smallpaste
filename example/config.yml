@@ -1,0 +1,3 @@
+output: "shell.example.com:public_html/"
+url_prefix: "https://example.com/volatile/"
+
